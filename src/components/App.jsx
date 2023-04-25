@@ -1,4 +1,1 @@
-export const App = () => {
-  return (
-  );
-};
+
